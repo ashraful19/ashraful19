@@ -37,9 +37,13 @@
 
 **AI-native stack**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-0D1117?style=flat&logo=anthropic&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-0D1117?style=flat&logo=claudedotdev&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=flat&logo=cursor&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-0D1117?style=flat) ![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat) ![Agents](https://img.shields.io/badge/Agents-0D1117?style=flat) ![Evals](https://img.shields.io/badge/Evals-0D1117?style=flat)
-
 **Billing & commerce:** Stripe · Paddle · Polar · Lemon Squeezy · PayPal · Wise · Shopify · Clover · FedEx
+
+### 🤖 AI-Native
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claudedotdev&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-2D2D2D?style=flat&logo=cursor&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat&logoColor=white) ![Agents](https://img.shields.io/badge/Agentic_Workflows-008080?style=flat&logoColor=white) ![Evals](https://img.shields.io/badge/LLM_Evals-2E8B57?style=flat&logoColor=white)
+
+Daily AI-assisted engineering with **Claude Code**, **Cursor**, and **OpenCode** — shipped as customer-facing product features, not experiments.
 
 ---
 
