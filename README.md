@@ -12,8 +12,7 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-232F3E?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Availability-EU_%F0%9F%87%AA%F0%9F%87%BA_&_US_%F0%9F%87%BA%F0%9F%87%B8_Hours-10B981?style=flat-square&logo=clockify&logoColor=white" alt="Working Hours" />
+    <img src="https://img.shields.io/badge/Availability-APAC,_UK_%F0%9F%87%AC%F0%9F%87%A7_/_EU_%F0%9F%87%AA%F0%9F%87%BA_&_US_%F0%9F%87%BA%F0%9F%87%B8-10B981?style=flat-square&logo=clockify&logoColor=white" alt="Working Hours" />
     <img src="https://komarev.com/ghpvc/?username=ashraful19&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
