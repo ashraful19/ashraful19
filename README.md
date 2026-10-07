@@ -35,8 +35,6 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=ts,js,tailwind,redis,mysql,postgres,docker,nginx&perline=8" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=git,githubactions,linux,bash,vscode&perline=8" /></a>
 
-**AI-native stack**
-
 **Billing & commerce:** Stripe · Paddle · Polar · Lemon Squeezy · PayPal · Wise · Shopify · Clover · FedEx
 
 ### 🤖 AI-Native
@@ -45,13 +43,7 @@
 
 Daily AI-assisted engineering with **Claude Code**, **Cursor**, and **OpenCode** — shipped as customer-facing product features, not experiments.
 
----
+### 🔀 Open Source
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashraful19&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1117" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ashraful19&hide_border=true&locale=en&theme=tokyonight&hide_total_contributions=true&background=0D1117" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ashraful19/ashraful19/output/snake.svg" alt="contribution snake animation" />
-</div>
+- **[FilamentPHP](https://github.com/filamentphp/filament)** — merged upstream bug fixes into the admin panel core
+- **[Bagisto](https://github.com/bagisto/bagisto)** — merged upstream fixes into the Laravel e-commerce core
