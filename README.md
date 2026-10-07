@@ -67,7 +67,7 @@ I am a **Senior Product Engineer & Technical Architect** with over a decade of e
 *Daily AI-assisted engineering driven by **Claude Code**, **Cursor**, and **OpenCode** to accelerate development cycles and architect complex systems faster.*
 
 #### 💳 Billing, Payments & Commerce
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Paddle](https://img.shields.io/badge/Paddle-000000?style=flat-square&logo=paddle&logoColor=white) ![Polar](https://img.shields.io/badge/Polar-000000?style=flat-square&logo=github&logoColor=white) ![Lemon Squeezy](https://img.shields.io/badge/Lemon_Squeezy-7047EB?style=flat-square&logo=lemonsqueezy&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Paddle](https://img.shields.io/badge/Paddle-000000?style=flat-square&logo=paddle&logoColor=white) ![Polar](https://img.shields.io/badge/Polar-000000?style=flat-square&logo=polar&logoColor=white) ![Lemon Squeezy](https://img.shields.io/badge/Lemon_Squeezy-7047EB?style=flat-square&logo=lemonsqueezy&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 
 ---
 
